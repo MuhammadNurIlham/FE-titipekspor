@@ -1,0 +1,9 @@
+.img-icon {
+    width: 20px;
+    height: 20px;
+}
+
+.card {
+    border: none !important;
+    cursor: pointer;
+}
